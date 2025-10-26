@@ -1,3 +1,25 @@
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+yarn-error.log
+
 node_modules
+dist
+coverage
 build
-/data
+pgdata
+.terraform
+
+log
+
+.env
+.env.test.hash
+
+local.values.yaml
